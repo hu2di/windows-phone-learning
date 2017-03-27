@@ -1,0 +1,12 @@
+﻿<xapCache source="F:\Documents\visual studio 2013\Projects\WindowsPhone\HttpWeb\Bin\Debug\HttpWeb_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="4/13/2015 10:01:14 AM">
+  <file source="F:\Documents\visual studio 2013\Projects\WindowsPhone\HttpWeb\obj\Debug\HttpWeb.dll" archivePath="HttpWeb.dll" lastWriteTime="4/13/2015 10:01:13 AM" />
+  <file source="F:\Documents\visual studio 2013\Projects\WindowsPhone\HttpWeb\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="4/13/2015 9:33:58 AM" />
+  <file source="F:\Documents\visual studio 2013\Projects\WindowsPhone\HttpWeb\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="4/13/2015 9:33:58 AM" />
+  <file source="F:\Documents\visual studio 2013\Projects\WindowsPhone\HttpWeb\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="4/13/2015 9:33:58 AM" />
+  <file source="F:\Documents\visual studio 2013\Projects\WindowsPhone\HttpWeb\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="4/13/2015 9:33:58 AM" />
+  <file source="F:\Documents\visual studio 2013\Projects\WindowsPhone\HttpWeb\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="4/13/2015 9:33:58 AM" />
+  <file source="F:\Documents\visual studio 2013\Projects\WindowsPhone\HttpWeb\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="4/13/2015 9:34:01 AM" />
+  <file source="F:\Documents\visual studio 2013\Projects\WindowsPhone\HttpWeb\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="4/13/2015 9:33:58 AM" />
+  <file source="F:\Documents\visual studio 2013\Projects\WindowsPhone\HttpWeb\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="4/13/2015 9:33:58 AM" />
+  <file source="F:\Documents\visual studio 2013\Projects\WindowsPhone\HttpWeb\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="4/13/2015 9:34:01 AM" />
+</xapCache>
